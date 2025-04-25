@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Core_Java.iml" filepath="$PROJECT_DIR$/Core_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_02/Day_02.iml" filepath="$PROJECT_DIR$/Day_02/Day_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_03/Day_03.iml" filepath="$PROJECT_DIR$/Day_03/Day_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_04/Day_04.iml" filepath="$PROJECT_DIR$/Day_04/Day_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_05/Day_05.iml" filepath="$PROJECT_DIR$/Day_05/Day_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_06/Day_06.iml" filepath="$PROJECT_DIR$/Day_06/Day_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_07/Day_07.iml" filepath="$PROJECT_DIR$/Day_07/Day_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_08/Day_08.iml" filepath="$PROJECT_DIR$/Day_08/Day_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_09/Day_09.iml" filepath="$PROJECT_DIR$/Day_09/Day_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_10/Day_10.iml" filepath="$PROJECT_DIR$/Day_10/Day_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_11/Day_11.iml" filepath="$PROJECT_DIR$/Day_11/Day_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_12/Day_12.iml" filepath="$PROJECT_DIR$/Day_12/Day_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_13/Day_13.iml" filepath="$PROJECT_DIR$/Day_13/Day_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_14/Day_14.iml" filepath="$PROJECT_DIR$/Day_14/Day_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_15/Day_15.iml" filepath="$PROJECT_DIR$/Day_15/Day_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_16/Day_16.iml" filepath="$PROJECT_DIR$/Day_16/Day_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_17/Day_17.iml" filepath="$PROJECT_DIR$/Day_17/Day_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_18/Day_18.iml" filepath="$PROJECT_DIR$/Day_18/Day_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_19/Day_19.iml" filepath="$PROJECT_DIR$/Day_19/Day_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_20/Day_20.iml" filepath="$PROJECT_DIR$/Day_20/Day_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_21/Day_21.iml" filepath="$PROJECT_DIR$/Day_21/Day_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_22/Day_22.iml" filepath="$PROJECT_DIR$/Day_22/Day_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_23/Day_23.iml" filepath="$PROJECT_DIR$/Day_23/Day_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_24/Day_24.iml" filepath="$PROJECT_DIR$/Day_24/Day_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_25/Day_25.iml" filepath="$PROJECT_DIR$/Day_25/Day_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_26/Day_26.iml" filepath="$PROJECT_DIR$/Day_26/Day_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_27/Day_27.iml" filepath="$PROJECT_DIR$/Day_27/Day_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_28/Day_28.iml" filepath="$PROJECT_DIR$/Day_28/Day_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_29_1/Day_29_1.iml" filepath="$PROJECT_DIR$/Day_29_1/Day_29_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day_30/Day_30.iml" filepath="$PROJECT_DIR$/Day_30/Day_30.iml" />
+    </modules>
+  </component>
+</project>
